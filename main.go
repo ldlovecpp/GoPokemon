@@ -1,7 +1,8 @@
 package main
 
-import "./model"
+import "github.com/ldlovecpp/GoPokemon/model"
 import "fmt"
+
 func main(){
     //fmt.Println("asadsa")
 	elevs := model.Skill{}
